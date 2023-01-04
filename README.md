@@ -1,2 +1,2 @@
 # SpectrumProgram
-Final assingment for my course
+Final assignment for my course
